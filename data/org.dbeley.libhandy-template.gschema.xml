@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="vala-libhandy-template">
+	<schema id="org.dbeley.libhandy-template" path="/org/dbeley/libhandy-template/">
+	</schema>
+</schemalist>

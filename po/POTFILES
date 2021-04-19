@@ -1,0 +1,7 @@
+data/org.dbeley.libhandy-template.desktop.in
+data/org.dbeley.libhandy-template.appdata.xml.in
+data/org.dbeley.libhandy-template.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
